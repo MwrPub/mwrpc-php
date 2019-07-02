@@ -1,18 +1,18 @@
 {
-  "name": "mwr-wiki/method-working-remotely",
+  "name": "mwrpub/mwrpc",
   "description": "Yet Another RPC Framework",
   "minimum-stability": "stable",
   "license": "MIT",
   "authors": [
     {
       "name": "MWR Organization",
-      "email": "mwr@mwr.wiki"
+      "email": "mwr"
     }
   ],
   "autoload": {
     "psr-4": {
-      "Mwr\\Server\\": "php/server/",
-      "Mwr\\Client\\": "php/client/"
+      "Mwr\\Server\\": "server/",
+      "Mwr\\Client\\": "client/"
     }
   }
 }
