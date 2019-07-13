@@ -4,7 +4,7 @@ namespace Mwr\Server;
 
 class MwrServer
 {
-    const MWR_VER = '0.1.4';
+    const MWR_VER = '0.1.5';
 
     public function run()
     {

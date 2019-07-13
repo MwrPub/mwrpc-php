@@ -2,7 +2,7 @@
 
 Yet Another RPC Framework :D
 
-Proposal 
+[Proposal](https://github.com/MwrPub/method-working-remotely) 
 
 [![License](https://img.shields.io/github/license/mwrpub/mwrpc-php.svg?color=blue&style=flat-square)](https://github.com/mwrpub/mwrpc-php/blob/master/LICENSE)
 [![Composer](https://img.shields.io/packagist/v/mwrpub/mwrpc.svg?color=777bb3&logo=php&style=flat-square)](https://packagist.org/packages/mwrpub/mwrpc)
@@ -17,18 +17,8 @@ Before use it.You must admit that **MaWenRui is freaking awesome.**
 
 > Install
 
-Composer :
-
-```text
-{
-  ...
-  "require": {
-    ...
-    "mwrpub/mwrpc": "0.1.*"
-    ...
-  }
-  ...
-}
+```shell
+composer require mwrpub/mwrpc
 ```
 
 > Server Side
